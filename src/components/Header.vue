@@ -11,7 +11,7 @@
           <nav class="menu">
             <ul>
               <li>Clientes</li>
-              <li>Pedidos</li>
+               <li><router-link class="style-router" :to="{name: 'pedidos'}"> Pedidos</router-link></li>
             </ul>
           </nav>
         </div>

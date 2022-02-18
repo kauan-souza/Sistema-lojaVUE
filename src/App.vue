@@ -6,9 +6,12 @@
 
 <script>
 
+// import ProdutosVue from './components/Produtos.vue'
+
 export default {
-  name: 'App',
-}
+  name: 'App'
+  }
+
 </script>
 
 <style>
